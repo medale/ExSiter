@@ -12,6 +12,8 @@ libraryDependencies += "com.typesafe" % "config" % "1.0.0"
 
 libraryDependencies += "com.jcraft" % "jsch" % "0.1.49"
 
+libraryDependencies += "org.apache.commons" % "commons-lang3" % "3.1"
+
 libraryDependencies += "org.scala-lang" % "scala-reflect" % "2.10.0"
 
 libraryDependencies += "org.scalatest" %% "scalatest" % "1.9.1" % "test"
